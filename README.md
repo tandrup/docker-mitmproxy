@@ -1,4 +1,4 @@
-# mitmproxy docker images
+# mitmproxy docker image
 
 This docker image sets up a mitmproxy which does SSL description.
 
